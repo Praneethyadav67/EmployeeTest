@@ -6,8 +6,7 @@ public class Addition{
              int a = 10;
 			 int b= 20;
 	         int c= 15
-			 int d = a+b+c;
-			 
+			 int d = a+b+c;		 
         System.out.println(d);
    }
 }
