@@ -7,6 +7,6 @@ public class Substraction{
 			 int b= 10;
 			 int c = a-b;
 			 
-        System.out.println(c);
+        System.out.println( "After Sub C value is: "+c);
    }
 }
